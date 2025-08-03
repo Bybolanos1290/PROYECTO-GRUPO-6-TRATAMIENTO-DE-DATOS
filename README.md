@@ -36,6 +36,9 @@ En nuestro caso el archivo que tomamos es entregado por una herramienta de anál
 
 ## Aplicación de resultados
 Un ejemplo que se implementó como un pequeño ejemplo es generar una API que al momento de colocar el tipo de ataque al usuario, la idea es que muestre qué puertos son los más comunes para cerrar ya que son los más utilizados por los atacantes. Esta idea sería una base para generar un código más potente que, al momento de detectar una amenaza, pueda cerrar de forma automática los puertos e identificar el tipo de ataque.
+## Consideraciones éticas y de uso de los datos
+El dataset utilizado fue obtenido de fuentes públicas y no contiene datos sensibles ni identificables. Todo el análisis se realizó con fines académicos y bajo principios de uso responsable de la información.
+
 - **Pantalla de inicio de API**
 
 ![Inicialización de API](images/image2.jpeg)
