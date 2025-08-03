@@ -36,7 +36,8 @@ En nuestro caso el archivo que tomamos es entregado por una herramienta de anál
 
 ## Aplicación de resultados
 Un ejemplo que se implementó como un pequeño ejemplo es generar una API que al momento de colocar el tipo de ataque al usuario, la idea es que muestre qué puertos son los más comunes para cerrar ya que son los más utilizados por los atacantes. Esta idea sería una base para generar un código más potente que, al momento de detectar una amenaza, pueda cerrar de forma automática los puertos e identificar el tipo de ataque.
-
+![Inicialización de API](images/image1.jpeg)
+![Resultados del POST](images/image2.jpeg)
 ## Conclusiones
 En el ámbito de la ciberseguridad en redes de telecomunicaciones, el tratamiento de datos es muy importante. Debido a la velocidad en la que las interacciones se producen, estas generan una cantidad enorme de datos en los cuales es complicado detectar algún patrón.
 
